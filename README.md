@@ -7,3 +7,6 @@ Interactive Power BI dashboard that helps track KPIs and product-level details
 4. Gauge Chart, KPI cards highlight key metrics, and Line and Area charts were used to show trends.
 5. A geographic map was included to display and analyse sales by region.
 6. Drill-Down analysis was used to identify for individual product analysis.
+
+![Executive Dashboard](Exec_Dashboard.png)
+![Product Details](Product Details.png)
